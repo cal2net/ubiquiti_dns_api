@@ -173,9 +173,4 @@ python -m unifi_dns
 
 From the menu you can show application info, list and select sites, list or inspect DNS records, then create A, AAAA, CNAME, MX, SRV, TXT, or domain-forward entries.
 
-## First authenticated call
 
-```bash
-curl -k -X GET 'https://192.168.0.1/proxy/network/integration/v1/info' \
-  -H 'X-API-KEY: YOUR_API_KEY'
-```
