@@ -13,7 +13,7 @@ python -m pip install -e ".[dev]"
 From another project:
 
 ```bash
-pip install "unifi-dns @ git+https://github.com/YOUR_USER/ubiquiti_dns_api.git"
+pip install "unifi-dns @ git+https://github.com/cal2net/ubiquiti_dns_api.git"
 ```
 
 ## Configure
