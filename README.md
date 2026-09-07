@@ -7,12 +7,6 @@ Generate an API key at [unifi.ui.com](https://unifi.ui.com).
 ## Install
 
 ```bash
-python -m pip install -e ".[dev]"
-```
-
-From another project:
-
-```bash
 pip install "unifi-dns @ git+https://github.com/cal2net/ubiquiti_dns_api.git"
 ```
 
